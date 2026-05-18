@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: TradeSpace-Automated-Testing
+        working-directory: Mod3-Unit-Testing-Listing-Status-Updates
 
     steps:
       - name: Check out repository
